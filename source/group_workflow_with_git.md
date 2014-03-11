@@ -38,7 +38,7 @@ A student should be able to:
 * Show how branches have diverged
 * Merge new branch back into master
 * Draw what this merge looks like
-* How a merge confilct gets created
+* How a merge conflict gets created
 * How to identify and fix a merge conflict
 * how to rebase a branch into another branch
 * Rebase vs merge
