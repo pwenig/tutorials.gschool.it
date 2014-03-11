@@ -29,7 +29,7 @@ A student should be able to:
 * View branches
 * Add two commits to the new branch
 * Push a new branch to GitHub
-* Create a pull request on Github from a branch in a fork that they own
+* Create a pull request on Github from a branch to master
 * Draw what happens when I have different commits on different branches
 * Limit the number of commits that you can see in a list
 * Show a one line commit format
@@ -48,3 +48,10 @@ A student should be able to:
 * rebasing remote branches into local branch
 * what 2 command git pull contains
 * Understand why it is good to continually to keep up to date with origin/master
+* Merge that pull request into master
+* Delete a local branch and a remote branch
+
+## Homework
+
+* Make sure you can perform and diagram all of the actions above. Bring questions for
+each step that you are having issues with.
