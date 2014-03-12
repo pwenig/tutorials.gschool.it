@@ -16,31 +16,16 @@ page using embedded Ruby, also know as erb. Dynamic content allows us to generat
 a web page from things like databases to customize the user experience. 
 Sites like Twitter, Facebook and Amazon make heavy use of dynamic content.
 
+We will use Tracker stories to drive the functionality, some of which will be implemented in class.
+
 ## Getting started
 
-* Fork and clone [https://github.com/gSchool/dynamic_restaurant_site](https://github.com/gSchool/dynamic_restaurant_site)
-* Follow instructions in the [README](https://github.com/gSchool/dynamic_restaurant_site/blob/master/README.md)
+* Fork and clone [https://github.com/gSchool/dynamic_restaurant_site](https://github.com/gSchool/dynamic_restaurant_site){:target="_blank"}
+* Follow instructions in the [README](https://github.com/gSchool/dynamic_restaurant_site/blob/master/README.md){:target="_blank"}
 
-Once the specs are running, you can start making changes.
-
-## <a name="copyrightDate"></a>Dynamic Copyright Date
-
-The restaurant owner is very happy with the landing page you have created for them but there is one issue
-that they didn't think about. The year has changed but the copyright year at the bottom of the site is still
-from last year. They would like it to change each year without having a developer change the page.
-You decide that you can use ERB to make this work.
-
-## <a name="itemList"></a>Listing dishes
-
-The restaurant owners have told you that they will be changing their dishes frequently.  They'd like to make it
-very cheap to change the menu items that show up on the homepage.  Each menu item has:
-
-* A name
-* A description
-* A price
-* An image
-
-They provided this list in a CSV file.
+Once the specs are running, you can start
+making changes by importing the
+stories found [here](http://students.gschool.it/trackerStories/dynamicRubyStories.csv){:target="_blank"}.
 
 ## References
 
