@@ -74,6 +74,7 @@ Student should be able to:
 * Tasks - can be used to outline steps needed to complete a story
 * Comments - Record activity, notes, etc on the story.
     * Over communication is rarely a bad thing.
+*Export Stories - to export your stories, click on the boxes to the right of each story. Click on the upper right CSV button.
 
 ## Story workflow
 
